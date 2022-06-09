@@ -1,7 +1,8 @@
 # ProjetoApp
 Projeto avaliativo da disciplina Programação Web e Mobile
 
-Esse projeto transforma um projeto anterior em um aplicativo mobile.
+Esse projeto transforma um projeto anterior em um aplicativo mobile. Esse aplicativo irá gerar uma frase aleatória sempre que o botão for clicado, através da utilização
+da api: "https://api.adviceslip.com/advice".
 
 Imagens do projeto:
 
