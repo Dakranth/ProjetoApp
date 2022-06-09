@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.unicap.TipsAdvices" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/Advices"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Projetin" >
+        <activity
+            android:name="com.unicap.TipsAdvices.SobreDetalhesStevens"
+            android:exported="false"
+            android:label="@string/title_activity_sobre_detalhes_stevens"
+            android:theme="@style/Theme.Projetin.NoActionBar" />
+        <activity
+            android:name="com.unicap.TipsAdvices.SobreDetalhesIgor"
+            android:theme="@style/Theme.Projetin.NoActionBar" />
+        <activity
+            android:name="com.unicap.TipsAdvices.Sobre"
+            android:exported="false"
+            android:theme="@style/Theme.Projetin.NoActionBar"/>
+        <activity
+            android:name="com.unicap.TipsAdvices.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
