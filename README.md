@@ -12,7 +12,7 @@ Imagens do projeto:
 ![image](https://user-images.githubusercontent.com/72579975/172759351-ca05730c-2eaa-424d-bc40-ecc37f1a09c6.png)
 ![image](https://user-images.githubusercontent.com/72579975/172759356-bc6b7c9c-03ff-488e-b72f-a971b19f3cc9.png)
 
-Vídeo do funcionamento do aplicativo: [alterar e colocar link aqui]
+Vídeo do funcionamento do aplicativo: (https://youtu.be/-2DVEwfb2UY)
 
 Imagem do projeto anterior:
 
